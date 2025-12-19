@@ -427,3 +427,17 @@ The purpose of an Xray Test Plan is to organize and manage the execution of a se
 1. Open the created Test Plan.
 2. Use the **Add Test Sets** or **Add Tests** option to include relevant Test Sets or individual Test Cases.
 3. Organize and track the execution of your tests for a release or feature.
+
+
+## NOTICE
+
+This work and all embedded screenshot images are licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/legalcode).
+
+- SPDX-License-Identifier: CC-BY-4.0
+- SPDX-FileCopyrightText: 2025 Contributors to the Eclipse Foundation
+- Source URL: https://github.com/eclipse-tractusx/tractusx-sdk
+
+## AUTHORS
+
+- [Stefan Di Leo](https://github.com/ds-sdileo)
+- [Harald Zimmer](https://github.com/ds-hzimmer)
